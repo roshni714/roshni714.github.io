@@ -3,17 +3,18 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 # Site settings
-title: Sarah A. Wu
-email: sarahawu@stanford.edu
+title: Roshni Sahoo
+email: rsahoo@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
-    Sarah A. Wu
+    Roshni Sahoo
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sarahawu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://roshni714.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 socials:
     twitter:
-    github: sarahawu
-    instagram: swubear
-    last-fm: sarahwu_
+    github: roshni714
+    goodreads: 90432444-roshni-sahoo
+    # instagram: swubear
+    # last-fm: sarahwu_
 
 collections:
     publications:

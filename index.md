@@ -5,13 +5,13 @@ permalink: /
 ---
 
 {:.content-narrow .content-block}
-I am a first-year PhD student in Psychology at Stanford University, advised by [Tobi Gerstenberg](http://cicl.stanford.edu/member/tobias_gerstenberg/){:target="_blank"} in the [Causality in Cognition Lab](http://cicl.stanford.edu/){:target="_blank"} and supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/){:target="_blank"}. I received my BS degrees (virtually!) from MIT studying math, computer science, and cognitive science. At MIT, I also worked in the [CoCoSci](http://cocosci.mit.edu/){:target="_blank"} group with [Max Kleiman-Weiner](http://www.mit.edu/~maxkw/){:target="_blank"} and [Josh Tenenbaum](http://cocosci.mit.edu/josh){:target="_blank"}. 
+I am a first-year PhD student in computer science at Stanford University, advised by [Stefan Wager](https://web.stanford.edu/~swager/){:target="_blank"} and supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). Previously, I majored in computer science and math and minored in literature at MIT. During undergrad, I was fortunate to work with [Igor Gilitschenski](https://www.gilitschenski.org/igor/), [Daniela Rus](http://danielarus.csail.mit.edu/), and [John Guttag](https://people.csail.mit.edu/guttag/) in my first research experiences.
 
 {:.content-narrow .content-block}
-My research interests are in computational modeling of social cognition, including aspects of social learning, inference, and judgement. Outside of science, I like boba, running, music, and design.
+I am fascinated by human interaction with machine learning systems, as it relates to uncertainty quantification, decision making, game theory, and experimental design. Outside of research, I like [reading books](https://www.goodreads.com/user/show/90432444-roshni-sahoo) and [doing outdoorsy things with my friends](https://roshni714.github.io/miscellaneous/). 
 
 {:.content-narrow .content-block}
-You can email me at sarahawu [at] stanford.edu.
+Feel free to reach out if we share any interests! Also, happy to chat about getting involved in research as an undergrad, creating an inclusive research environment, diversity etc. You can email me at rsahoo [at] stanford [dot] edu.
 
 {:.profile .content-mid}
 ![naples](/imgs/naples.png)
