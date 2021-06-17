@@ -9,9 +9,9 @@ permalink: /research/
 {%- for pub in sorted -%}
 
   <div class="content-block">
-
-    {{ pub.authors }} ({{ pub.date | date: "%Y" }}
-    {%- if pub.in-press -%}, in press {%- endif %}). 
+    
+    {{ pub.authors }}<!-- ({{ pub.date | date: "%Y" }}
+    {%- if pub.in-press -%}, in press {%- endif %}) -->. 
     {% if pub.doi %} <a href="{{ pub.doi }}" target="_blank"> {% endif %} {{ pub.title }}{%- if pub.doi -%} </a> {%- endif -%}.
     <i> {{ pub.journal }}</i>
     {%- if pub.volume -%}, {{ pub.volume }} {%- endif -%}. 
