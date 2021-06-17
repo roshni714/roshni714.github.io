@@ -14,5 +14,5 @@ I am fascinated by human interaction with machine learning systems, as it relate
 {:.content-narrow .content-block}
 Feel free to reach out if we share any interests! Also, happy to chat about getting involved in research as an undergrad, creating an inclusive research environment, diversity etc. You can email me at rsahoo [at] stanford [dot] edu.
 
-{:.content-mid .profile}
+{:.content-profile .profile}
 ![roshni](/imgs/roshni3.jpeg)
