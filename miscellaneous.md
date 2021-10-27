@@ -7,13 +7,13 @@ permalink: /miscellaneous/
 <!-- names:
  -  -->
 <div class="chalk content-mid">
-  {%- for i in (1..6) -%}
+  {%- for i in (1..7) -%}
   <div> <a href="/imgs/IMG{{ i }}.jpeg" class="lightbox_trigger"> <img src="/imgs/IMG{{ i }}.jpeg"> </a> 
   </div>
   {%- endfor -%}
 </div>
 
-Torrey Pines &#183; Cordillera Huayhuash &#183; Big Sur &#183; Point Reyes &#183; Harborside Half Marathon &#183; Humboldt.
+Torrey Pines &#183; Cordillera Huayhuash &#183; Big Sur &#183; Point Reyes &#183; Harborside Half Marathon &#183; Humboldt &#183; Acadia.
 
 
 The template for this website was made by my friend [Sarah Wu](https://sarahawu.github.io/)!

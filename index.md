@@ -5,7 +5,7 @@ permalink: /
 ---
 
 {:.content-narrow .content-block}
-I am a first-year PhD student in computer science at Stanford University, advised by [Stefan Wager](https://web.stanford.edu/~swager/){:target="_blank"} and supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). Previously, I majored in computer science and math and minored in literature at MIT. 
+I am a second-year PhD student in computer science at Stanford University, advised by [Stefan Wager](https://web.stanford.edu/~swager/). I am supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Ethics in Society Fellowship](https://ethicsinsociety.stanford.edu/graduate/graduate-fellowships). Previously, I majored in computer science and math and minored in literature at MIT. 
 <!-- During undergrad, I was fortunate to work with [Igor Gilitschenski](https://www.gilitschenski.org/igor/), [Daniela Rus](http://danielarus.csail.mit.edu/), and [John Guttag](https://people.csail.mit.edu/guttag/) in my first research experiences. -->
 
 {:.content-narrow .content-block}
