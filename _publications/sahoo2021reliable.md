@@ -1,6 +1,6 @@
 ---
 title: Reliable Decisions with Threshold Calibration
-authors: <b> Roshni Sahoo</b>, Shengjia Zhao, Alyssa Chen, Stefano Ermon
+authors: Roshni Sahoo, Shengjia Zhao, Alyssa Chen, Stefano Ermon
 date: 2021-07-16
 journal: Neural Information Processing Systems (NeurIPS), 2021
 <!-- journal: Distribution-Free Uncertainty Quantification Workshop, International Conference on Machine Learning (ICML) 2021-->

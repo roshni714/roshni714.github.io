@@ -1,6 +1,6 @@
 ---
 title: Tree Covers&colon; An Alternative to Metric Embeddings
-authors: <b> Roshni Sahoo</b>, Ines Chami, Christopher R&eacute;
+authors: Roshni Sahoo, Ines Chami, Christopher R&eacute;
 date: 2020-12-10
 journal: Differential Geometry Meets Deep Learning Workshop, Neural Information Processing Systems (NeurIPS) 2020
 <!-- volume: 45(1) -->

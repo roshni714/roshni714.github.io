@@ -1,6 +1,6 @@
 ---
 title: Unsupervised Domain Adaptation in the Absence of Source Data
-authors: <b> Roshni Sahoo</b>*, Divya Shanmugam*, John Guttag
+authors: Roshni Sahoo, Divya Shanmugam, John Guttag
 date: 2020-07-16
 journal: Uncertainty and Robustness in Deep Learning Workshop, International Conference on Machine Learning (ICML) 2020
 <!-- volume: 45(1) -->

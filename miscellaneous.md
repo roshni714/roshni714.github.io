@@ -15,6 +15,7 @@ permalink: /miscellaneous/
 
 Torrey Pines &#183; Cordillera Huayhuash &#183; Big Sur &#183; Point Reyes &#183; Harborside Half Marathon &#183; Humboldt &#183; Acadia.
 
+[Ethics Fellowship Interview](https://ethicsinsociety.stanford.edu/buzz-blog/modeling-inequities-out-machine-learning).
 
 The template for this website was made by my friend [Sarah Wu](https://sarahawu.github.io/)!
 
