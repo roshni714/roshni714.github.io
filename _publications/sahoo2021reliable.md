@@ -8,5 +8,9 @@ journal: Neural Information Processing Systems (NeurIPS), 2021
 doi: ../papers/sahoo2021reliable.pdf
 ref-1-name: pdf
 ref-1-link: ../papers/sahoo2021reliable.pdf
+ref-2-name: talk
+ref-2-link: https://www.dropbox.com/s/8bpr2j33pw7ummv/sahoo2021reliable_video.mp4?dl=0
+ref-3-name: poster
+ref-3-link: ../posters/sahoo2021reliable.pdf
 ---
 Preliminary version at Distribution-Free Uncertainty Quantification Workshop, International Conference on Machine Learning (ICML) 2021.
