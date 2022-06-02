@@ -9,7 +9,7 @@ doi: ../papers/sahoo2021reliable.pdf
 ref-1-name: pdf
 ref-1-link: ../papers/sahoo2021reliable.pdf
 ref-2-name: talk
-ref-2-link: https://www.dropbox.com/s/8bpr2j33pw7ummv/sahoo2021reliable_video.mp4?dl=0
+ref-2-link: https://nips.cc/virtual/2021/poster/26203
 ref-3-name: poster
 ref-3-link: ../posters/sahoo2021reliable.pdf
 ---
