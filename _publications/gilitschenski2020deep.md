@@ -2,7 +2,7 @@
 title: Deep Orientation Uncertainty Learning with a Bingham Loss
 authors: Igor Gilitschenski, Roshni Sahoo, Wilko Schwarting, Alexander Amini, Sertac Karaman, Daniela Rus
 date: 2020-04-06
-journal: Eighth International Conference on Learned Representations (ICLR) 2020
+journal: International Conference on Learned Representations (ICLR) 2020
 doi: https://openreview.net/pdf?id=ryloogSKDS
 ref-1-name: pdf
 ref-1-link: ../papers/gilitschenski2020deep.pdf
