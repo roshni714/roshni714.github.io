@@ -11,4 +11,4 @@ ref-3-name: poster
 ref-3-link: ../posters/sahoo2022competing.pdf 
 ---
 
-Oral Presentation at the 2022 ACM Conference on Equity and Access in Algorithms, Mechanims, and Optimization (EAAMO).
+<!--Oral Presentation at the 2022 ACM Conference on Equity and Access in Algorithms, Mechanims, and Optimization (EAAMO).-->
