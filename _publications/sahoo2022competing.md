@@ -8,7 +8,9 @@ ref-1-link: https://arxiv.org/abs/2204.01884
 ref-2-name: code
 ref-2-link: https://github.com/roshni714/policy-learning-competing-agents
 ref-3-name: poster
-ref-3-link: ../posters/sahoo2022competing.pdf 
+ref-3-link: ../posters/sahoo2022competing.pdf
+ref-4-name: EAAMO talk
+ref-4-link: https://youtu.be/E1KEHcQQckQ
 ---
 
 <!--Oral Presentation at the 2022 ACM Conference on Equity and Access in Algorithms, Mechanims, and Optimization (EAAMO).-->
