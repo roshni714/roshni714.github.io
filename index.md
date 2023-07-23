@@ -14,5 +14,5 @@ Outside of research, I love to run, swim, and [read](https://www.goodreads.com/u
 Feel free to reach out if we share any interests! Also, happy to chat about building inclusive research communities, mentorship, grad school etc. You can email me at rsahoo [at] stanford [dot] edu.
 
 {:.content-profile .profile}
-![roshni](/imgs/roshni3.jpeg)
+![roshni](/imgs/zion.jpg)
 
