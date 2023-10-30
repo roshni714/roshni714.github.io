@@ -11,7 +11,7 @@ I am a fourth-year PhD student in computer science at Stanford University. My re
 Outside of research, I love to run, swim, [read](https://www.goodreads.com/user/show/90432444-roshni-sahoo). I also mentor local high school students through [Stanford FAST](https://fast.stanford.edu/). Previously, I co-organized [Computing & Society](https://stanford-cscs.github.io/) and [Grad WiCS](https://www.stanfordwomenincomputerscience.com/).
 
 {:.content-narrow .content-block}
-<b> If you are an undergrad at Stanford and you are interested in working with me, don't hesitate to reach out :) </b> Also, happy to chat about building inclusive research communities, mentorship, grad school etc. You can email me at rsahoo [at] stanford [dot] edu.
+Happy to chat about building inclusive research communities, mentorship, grad school etc. You can email me at rsahoo [at] stanford [dot] edu.
 
 {:.content-profile .profile}
 ![roshni](/imgs/zion.jpg)
