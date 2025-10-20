@@ -11,7 +11,7 @@ I am a final-year PhD student in computer science at Stanford University. I work
 I will be presenting at INFORMS about [what it would cost to end extreme poverty](/JMP.pdf) on Monday October 27, 4:30-4:45pm. I hope to see you there!
 
 {:.content-narrow .content-block}
-I am fortunate to be advised by [Stefan Wager](https://web.stanford.edu/~swager/) during my PhD. I am supported by a [Stanford DARE Fellowship](https://vpge.stanford.edu/fellowships-funding/dare), [Stanford Data Science Fellowship](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program), and [NSF GRFP](https://www.nsfgrfp.org/). Previously, I studied computer science and math at MIT, where I was lucky to learn from [Igor Gilitschenski](https://www.gilitschenski.org/igor/), [Daniela Rus](http://danielarus.csail.mit.edu/), and [John Guttag](https://people.csail.mit.edu/guttag/) in my first research experiences.
+I am fortunate to be advised by [Stefan Wager](https://web.stanford.edu/~swager/). I am supported by a [Stanford DARE Fellowship](https://vpge.stanford.edu/fellowships-funding/dare), [Stanford Data Science Fellowship](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program), and [NSF GRFP](https://www.nsfgrfp.org/). Previously, I studied computer science and math at MIT, where I was lucky to learn from [Igor Gilitschenski](https://www.gilitschenski.org/igor/), [Daniela Rus](http://danielarus.csail.mit.edu/), and [John Guttag](https://people.csail.mit.edu/guttag/) in my first research experiences.
 
 {:.content-narrow .content-block}
 Outside of research, I love to practice yoga, run, swim, and [read](https://www.goodreads.com/user/show/90432444-roshni-sahoo).
