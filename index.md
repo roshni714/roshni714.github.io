@@ -8,7 +8,7 @@ permalink: /
 I am a final-year PhD student in computer science at Stanford University. I work on data-driven decision making for social impact. My research develops statistical methodology to address challenges in [public health](https://arxiv.org/abs/2508.14858) and [economic development](/JMP.pdf), combining tools from machine learning, causal inference, and optimization. 
 
 {:.content-narrow .content-block}
-I will be presenting at the MIT CODE Conference about [data fusion for public health surveillance](https://arxiv.org/abs/2508.14858) on Friday November 14 in Session H: Education and Health (DR 3, 6th Floor) at 3:20pm. I hope to see you there!
+I will be presenting at the MIT CODE Conference about [data fusion for public health surveillance](https://arxiv.org/abs/2508.14858) in Session H: Education and Health (DR 3, 6th Floor) on Friday November 14 at 3:20pm. I hope to see you there!
 
 {:.content-narrow .content-block}
 I am fortunate to be advised by [Stefan Wager](https://web.stanford.edu/~swager/). I am supported by a [Stanford DARE Fellowship](https://vpge.stanford.edu/fellowships-funding/dare), [Stanford Data Science Fellowship](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program), and [NSF GRFP](https://www.nsfgrfp.org/). Previously, I studied computer science and math at MIT, where I was lucky to learn from [Igor Gilitschenski](https://www.gilitschenski.org/igor/), [Daniela Rus](http://danielarus.csail.mit.edu/), and [John Guttag](https://people.csail.mit.edu/guttag/) in my first research experiences.
