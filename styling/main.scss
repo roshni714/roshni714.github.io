@@ -6,7 +6,7 @@
  * defaults
  */
 $base-font-family:  "Lato", sans-serif !default;
-$base-font-size:    13px !default;
+$base-font-size:    15px !default;
 $base-font-weight:  400 !default;
 $large-font-size:   24px !default;
 $emph-font-weight:  600 !default;
@@ -184,6 +184,15 @@ a {
 .content-note {
   margin-top: 0;
   margin-left: $unit-spacing;
+}
+
+.press-coverage {
+  color: #777777;
+  font-style: italic;
+
+  a {
+    font-weight: $base-font-weight;
+  }
 }
 
 .content-narrow {

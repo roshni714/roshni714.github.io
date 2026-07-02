@@ -45,6 +45,18 @@ permalink: /research/
       {{ pub.content }}
     </div>
 
+    {% if pub.press-1-name %}
+    <div class="content-note press-coverage">
+      <i>Press</i>: <a href="{{ pub.press-1-link }}" target="_blank">{{ pub.press-1-name }}</a>
+
+      {%- if pub.press-2-name -%}, <a href="{{ pub.press-2-link }}" target="_blank">{{ pub.press-2-name }}</a>
+
+        {%- if pub.press-3-name -%}, <a href="{{ pub.press-3-link }}" target="_blank">{{ pub.press-3-name }}</a>{%- endif -%}
+
+      {%- endif -%}
+    </div>
+    {% endif %}
+
   </div>
 
 {% endfor %}
