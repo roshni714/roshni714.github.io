@@ -13,7 +13,7 @@ permalink: /miscellaneous/
   {%- endfor -%}
 </div>
 
-Torrey Pines &#183; Cordillera Huayhuash &#183; Big Sur &#183; Point Reyes &#183; Harborside &#183; Humboldt &#183; Acadia.
+Torrey Pines &#183; Cordillera Huayhuash &#183; Big Sur &#183; Point Reyes &#183; Newburyport &#183; Humboldt &#183; Acadia.
 
 The template for this website was made by my friend [Sarah Wu](https://sarahawu.github.io/)!
 
